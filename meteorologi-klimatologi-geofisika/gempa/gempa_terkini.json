@@ -1,5 +1,21 @@
 [
   {
+    "waktu": "06-11-21 21:37:37 WIB",
+    "lintang": "-0.16",
+    "bujur": "124.35",
+    "magnitudo": "6.2",
+    "kedalaman": "20 Km",
+    "wilayah": "71 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
+  },
+  {
+    "waktu": "06-11-21 10:56:19 WIB",
+    "lintang": "-1.36",
+    "bujur": "120.48",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "30 km BaratLaut POSO-SULTENG"
+  },
+  {
     "waktu": "04-11-21 09:42:44 WIB",
     "lintang": "-2.81",
     "bujur": "129.34",
@@ -222,21 +238,5 @@
     "magnitudo": "5.0",
     "kedalaman": "70 Km",
     "wilayah": "111 km BaratLaut MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "15-09-21 07:49:47 WIB",
-    "lintang": "1.28",
-    "bujur": "122.16",
-    "magnitudo": "5.4",
-    "kedalaman": "20 Km",
-    "wilayah": "85 km BaratLaut BOALEMO-GORONTALO"
-  },
-  {
-    "waktu": "15-09-21 03:13:53 WIB",
-    "lintang": "2.90",
-    "bujur": "95.32",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "125 km BaratLaut SINABANG-ACEH"
   }
 ]
