@@ -1,254 +1,267 @@
 [
   {
-    "waktu": "09/11/2021 23:12:19 WIB",
-    "lintang": "7.29 LS",
-    "bujur": "110.42 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di darat 4 km timur Ambarawa",
-    "warning": [
-      "II Ambarawa",
-      "II Pojoksari",
-      "II Brongkol",
-      "II Losari",
-      "II Kupang",
-      "II Krangan"
-    ]
-  },
-  {
-    "waktu": "09/11/2021 23:11:47 WIB",
-    "lintang": "7.28 LS",
-    "bujur": "110.56 BT",
-    "magnitudo": "2.4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 9 km timur laut kota Salatiga",
-    "warning": [
-      "II Ambarawa",
-      "II Pojoksari",
-      "II Brongkol",
-      "II Losari",
-      "II Kupang",
-      "II Krangan"
-    ]
-  },
-  {
-    "waktu": "09/11/2021 22:56:58 WIB",
-    "lintang": "7.26 LS",
-    "bujur": "110.35 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat 5 km barat laut Ambarawa",
-    "warning": [
-      "II Ambarawa",
-      "II Jambu",
-      "II Banyubiru",
-      "II Rosari",
-      "II Sumber",
-      "II Kaliputih"
-    ]
-  },
-  {
-    "waktu": "09/11/2021 09:19:10 WIB",
-    "lintang": "5.32 LS",
-    "bujur": "123.16 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di darat 0.6 km Barat Daya Lasalimu Selatan, Kab.",
-    "warning": [
-      "III-IV Lasalimu Selatan",
-      "III Pasarwajo",
-      "II-III Bau-bau"
-    ]
-  },
-  {
-    "waktu": "08/11/2021 12:05:59 WIB",
-    "lintang": "0.79 LS",
-    "bujur": "123.55 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di laut 81 km Timur Laut Banggai Kepulauan",
-    "warning": [
-      "III-IV Luwuk",
-      "III Taliabu"
-    ]
-  },
-  {
-    "waktu": "08/11/2021 04:14:44 WIB",
-    "lintang": "4.37 LS",
-    "bujur": "129.6 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "77 Km",
-    "wilayah": "Pusat gempa berada di laut 37 km Baratlaut Banda",
-    "warning": [
-      "III Banda"
-    ]
-  },
-  {
-    "waktu": "07/11/2021 20:41:16 WIB",
-    "lintang": "2.93 LS",
-    "bujur": "129.24 BT",
-    "magnitudo": "3.4",
+    "waktu": "04/02/2022 17:10:45 WIB",
+    "lintang": "7.48 LS",
+    "bujur": "105.92 BT",
+    "magnitudo": "5.5",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 11 km Timur Sawai",
+    "wilayah": "Pusat gempa berada di laut 71 Km Barat Daya Bayah",
     "warning": [
-      "II-III Sawai"
+      "IV Pelabuhan Ratu",
+      "III Malingping",
+      "III Bayah",
+      "III Cihara",
+      "III Panggarangan",
+      "III Ciptagelar",
+      "III Wanasalam",
+      "III Sukabumi",
+      "III Rangkasbitung",
+      "III Cireunghas",
+      "III Cikeusik",
+      "II Sawarna",
+      "II Pengalengan",
+      "II Jakarta",
+      "II Kota Tangerang",
+      "II Kab. Tangerang",
+      "II Tangerang Selatan",
+      "II Parung Panjang"
     ]
   },
   {
-    "waktu": "07/11/2021 18:29:02 WIB",
-    "lintang": "0.32 LU",
-    "bujur": "98.58 BT",
-    "magnitudo": "4.8",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 141 km BaratDaya Padang Sidempuan",
-    "warning": [
-      "II Padang Sidempuan"
-    ]
-  },
-  {
-    "waktu": "06/11/2021 22:28:13 WIB",
-    "lintang": "4.56 LS",
-    "bujur": "129.85 BT",
-    "magnitudo": "3.1",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 6 km Baratdaya Banda",
-    "warning": [
-      "III Banda"
-    ]
-  },
-  {
-    "waktu": "06/11/2021 21:37:37 WIB",
-    "lintang": "0.16 LS",
-    "bujur": "124.35 BT",
-    "magnitudo": "6.2",
-    "kedalaman": "20 Km",
-    "wilayah": "Pusat gempa berada di laut 71 km tenggara Bolaang Mongondow Selatan",
-    "warning": [
-      "IV-V Bolaang Mongondow Timur",
-      "III-IV Kotamobagu",
-      "III Bolaang Mongondow",
-      "III Talibu",
-      "III Gorontalo",
-      "III Bitung",
-      "II-III Manado",
-      "II-III Tomohon"
-    ]
-  },
-  {
-    "waktu": "06/11/2021 12:30:22 WIB",
-    "lintang": "6.15 LS",
-    "bujur": "130.23 BT",
+    "waktu": "03/02/2022 18:37:44 WIB",
+    "lintang": "7.51 LS",
+    "bujur": "119.71 BT",
     "magnitudo": "4.9",
-    "kedalaman": "171 Km",
-    "wilayah": "Pusat gempa berada di laut 234 km Barat Laut Maluku Tenggara Barat",
-    "warning": [
-      "III Malaka"
-    ]
-  },
-  {
-    "waktu": "06/11/2021 10:56:19 WIB",
-    "lintang": "1.36 LS",
-    "bujur": "120.48 BT",
-    "magnitudo": "5.4",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 30 km barat laut Poso",
+    "wilayah": "Pusat gempa berada di laut 111 km Barat Laut Labuan Bajo",
     "warning": [
-      "III-IV Poso",
-      "III Morowali Utara",
-      "II-III Parigi",
-      "II-III Luwu Timur"
+      "III Bima"
     ]
   },
   {
-    "waktu": "06/11/2021 06:33:04 WIB",
-    "lintang": "9.48 LS",
-    "bujur": "115.69 BT",
+    "waktu": "03/02/2022 02:29:18 WIB",
+    "lintang": "0.83 LU",
+    "bujur": "98.5 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "45 Km",
+    "wilayah": "Pusat gempa berada di laut 81 km Timur Laut Nias Selatan",
+    "warning": [
+      "II Pangautan"
+    ]
+  },
+  {
+    "waktu": "02/02/2022 10:23:02 WIB",
+    "lintang": "8.16 LS",
+    "bujur": "107.91 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "18 Km",
+    "wilayah": "Pusat gempa berada di laut 82 km BaratDaya Kabupaten Pangandaran",
+    "warning": [
+      "II-III Tasikmalaya",
+      "II-III Ciamis",
+      "II Pangandaran",
+      "II Cipatujah",
+      "II Cijulang",
+      "II Ciawitali",
+      "II Parigi",
+      "II Cikatomas",
+      "II Singajaya",
+      "II Cisompet"
+    ]
+  },
+  {
+    "waktu": "02/02/2022 06:59:38 WIB",
+    "lintang": "7.1 LS",
+    "bujur": "105.28 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "9 Km",
+    "wilayah": "Pusat gempa berada di laut 58 km barat daya Sumur",
+    "warning": [
+      "II-III Cigeulis",
+      "II-III Cimanggu",
+      "II-III Sobang",
+      "II-III Sukaresmi"
+    ]
+  },
+  {
+    "waktu": "02/02/2022 02:25:10 WIB",
+    "lintang": "7.75 LS",
+    "bujur": "128.46 BT",
+    "magnitudo": "6.2",
+    "kedalaman": "131 Km",
+    "wilayah": "Pusat gempa berada di laut 86km TimurLaut MalukuBaratDAya",
+    "warning": [
+      "II-III Saumlaki"
+    ]
+  },
+  {
+    "waktu": "01/02/2022 20:59:38 WIB",
+    "lintang": "3.61 LS",
+    "bujur": "120.92 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "2 Km",
+    "wilayah": "Pusat gempa berada di laut 6.7km BaratLaut Kolaka Utara",
+    "warning": [
+      "II-III Lasusua"
+    ]
+  },
+  {
+    "waktu": "01/02/2022 15:49:06 WIB",
+    "lintang": "7.99 LS",
+    "bujur": "111.22 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 24 km TimurLaut Pacitan",
+    "warning": [
+      "II-III Pacitan"
+    ]
+  },
+  {
+    "waktu": "01/02/2022 14:50:43 WIB",
+    "lintang": "3.66 LS",
+    "bujur": "133.71 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 49 km barat daya Kaimana",
+    "warning": [
+      "II Kaimana"
+    ]
+  },
+  {
+    "waktu": "01/02/2022 07:01:35 WIB",
+    "lintang": "8.62 LS",
+    "bujur": "118.39 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "111 Km",
+    "wilayah": "Pusat gempa berada di laut 12 km barat daya Dompu",
+    "warning": [
+      "III Bima"
+    ]
+  },
+  {
+    "waktu": "31/01/2022 03:22:21 WIB",
+    "lintang": "10.2 LS",
+    "bujur": "122.35 BT",
+    "magnitudo": "5.2",
+    "kedalaman": "40 Km",
+    "wilayah": "Pusat gempa berada di Laut 67 km Timurlaut Saburaijua",
+    "warning": [
+      "II Maumere"
+    ]
+  },
+  {
+    "waktu": "30/01/2022 16:37:55 WIB",
+    "lintang": "3.26 LU",
+    "bujur": "98.45 BT",
+    "magnitudo": "2.5",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 18 km barat laut Kab. Karo",
+    "warning": [
+      "III Brastagi"
+    ]
+  },
+  {
+    "waktu": "30/01/2022 04:17:13 WIB",
+    "lintang": "2.42 LS",
+    "bujur": "140.15 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "14 Km",
+    "wilayah": "Pusat gempa berada di darat 33 km Barat Laut Kab. Jayapura",
+    "warning": [
+      "II Genyem"
+    ]
+  },
+  {
+    "waktu": "28/01/2022 13:53:56 WIB",
+    "lintang": "0.22 LS",
+    "bujur": "124.49 BT",
+    "magnitudo": "5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 86 km Tenggara Bolaanguki",
+    "warning": [
+      "II Manado",
+      "II Kotamobagu",
+      "II Lolak"
+    ]
+  },
+  {
+    "waktu": "27/01/2022 23:03:03 WIB",
+    "lintang": "8.86 LS",
+    "bujur": "108.16 BT",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di Laut 133 km Barat Daya Pangandaran",
+    "warning": [
+      "III-IV Pangandaran",
+      "III-IV Kebumen",
+      "III Tasikmalaya",
+      "III Banjar",
+      "III Ciamis",
+      "II Garut",
+      "II Periangan"
+    ]
+  },
+  {
+    "waktu": "27/01/2022 20:20:02 WIB",
+    "lintang": "6.73 LS",
+    "bujur": "120.5 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 49 km baratdaya Selayar",
+    "warning": [
+      "II-III Benteng Selayar"
+    ]
+  },
+  {
+    "waktu": "27/01/2022 04:26:12 WIB",
+    "lintang": "2.73 LS",
+    "bujur": "121.99 BT",
     "magnitudo": "4.1",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di laut 91 km Tenggara Kuta Selatan",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 6 km selatan Kab.Morowali",
     "warning": [
-      "II Kuta Utara"
+      "II-III Bahodopi"
     ]
   },
   {
-    "waktu": "05/11/2021 20:17:25 WIB",
-    "lintang": "9.63 LS",
-    "bujur": "117.55 BT",
-    "magnitudo": "4.5",
-    "kedalaman": "46 Km",
-    "wilayah": "Pusat gempa berada di laut 124 km Tenggara Sumbawa Barat",
-    "warning": [
-      "III Sumbawa barat"
-    ]
-  },
-  {
-    "waktu": "05/11/2021 09:00:53 WIB",
-    "lintang": "7.35 LS",
-    "bujur": "110.49 BT",
+    "waktu": "26/01/2022 11:45:26 WIB",
+    "lintang": "1.09 LU",
+    "bujur": "127.46 BT",
     "magnitudo": "3",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di darat 12 km Barat daya Salatiga",
+    "kedalaman": "5 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km BaratLaut Jailolo",
     "warning": [
-      "II Ambarawa"
+      "II-III Jailolo"
     ]
   },
   {
-    "waktu": "05/11/2021 02:34:35 WIB",
-    "lintang": "2.79 LS",
-    "bujur": "129.22 BT",
-    "magnitudo": "3.4",
+    "waktu": "26/01/2022 01:06:05 WIB",
+    "lintang": "1.05 LU",
+    "bujur": "127.51 BT",
+    "magnitudo": "3",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 21 km utara sawai",
+    "wilayah": "Pusat gempa berada di darat 5 km Tenggara Jailolo",
     "warning": [
-      "III Sawai"
+      "II-III Jailolo"
     ]
   },
   {
-    "waktu": "04/11/2021 13:14:15 WIB",
-    "lintang": "2.01 LS",
-    "bujur": "125.87 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "17 Km",
-    "wilayah": "Pusat gempa berada di laut 14 km Barat Sanana",
-    "warning": [
-      "III Sanana"
-    ]
-  },
-  {
-    "waktu": "04/11/2021 09:42:44 WIB",
-    "lintang": "2.81 LS",
-    "bujur": "129.34 BT",
-    "magnitudo": "5.9",
+    "waktu": "25/01/2022 04:14:14 WIB",
+    "lintang": "8.78 LS",
+    "bujur": "116.14 BT",
+    "magnitudo": "4.6",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di Laut 16 Km Barat Wahai",
+    "wilayah": "Pusat gempa berada di darat 10 km Tenggara Lombok Barat",
     "warning": [
-      "V Sawai",
-      "IV Wahai",
-      "III Ambon",
-      "III Masohi",
-      "III Saparua"
-    ]
-  },
-  {
-    "waktu": "04/11/2021 05:17:46 WIB",
-    "lintang": "7.28 LS",
-    "bujur": "110.36 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "1 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km Barat Laut Ambarawa",
-    "warning": [
-      "II Ambarawa"
-    ]
-  },
-  {
-    "waktu": "04/11/2021 05:01:08 WIB",
-    "lintang": "7.32 LS",
-    "bujur": "110.37 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "15 Km",
-    "wilayah": "Pusat gempa berada di darat 2 km Barat Daya Ambarawa",
-    "warning": [
-      "II Ambarawa"
+      "IV Mataram",
+      "III Denpasar",
+      "III Badung",
+      "III Karangasem",
+      "III Padangbai",
+      "III Lombok Barat",
+      "III Lombok Tengah",
+      "III Lombok Utara",
+      "III Lombok Timur"
     ]
   }
 ]
