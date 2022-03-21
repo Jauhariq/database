@@ -1,242 +1,242 @@
 [
   {
-    "waktu": "04-02-22 17:10:45 WIB",
-    "lintang": "-7.48",
-    "bujur": "105.92",
+    "waktu": "19-03-22 11:26:26 WIB",
+    "lintang": "-1.93",
+    "bujur": "133.32",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "2 km BaratDaya TELUKBINTUNI-PAPUABRT"
+  },
+  {
+    "waktu": "18-03-22 03:53:30 WIB",
+    "lintang": "-6.75",
+    "bujur": "106.21",
+    "magnitudo": "5.1",
+    "kedalaman": "137 Km",
+    "wilayah": "20 km BaratLaut BAYAH-BANTEN"
+  },
+  {
+    "waktu": "16-03-22 10:00:01 WIB",
+    "lintang": "-7.94",
+    "bujur": "106.94",
     "magnitudo": "5.5",
     "kedalaman": "10 Km",
-    "wilayah": "71 km BaratDaya BAYAH-BANTEN"
+    "wilayah": "113 km Tenggara KOTA-SUKABUMI-JABAR"
   },
   {
-    "waktu": "02-02-22 02:25:10 WIB",
-    "lintang": "-7.75",
-    "bujur": "128.46",
-    "magnitudo": "6.2",
-    "kedalaman": "131 Km",
-    "wilayah": "86 km TimurLaut MALUKUBRTDAYA"
+    "waktu": "15-03-22 19:12:30 WIB",
+    "lintang": "-0.55",
+    "bujur": "98.47",
+    "magnitudo": "5.3",
+    "kedalaman": "25 Km",
+    "wilayah": "144 km Tenggara NIASSELATAN-SUMUT"
   },
   {
-    "waktu": "31-01-22 03:22:21 WIB",
-    "lintang": "-10.24",
-    "bujur": "122.35",
-    "magnitudo": "5.2",
-    "kedalaman": "40 Km",
-    "wilayah": "67 km TimurLaut SABURAIJUA-NTT"
+    "waktu": "14-03-22 21:12:10 WIB",
+    "lintang": "-0.56",
+    "bujur": "98.54",
+    "magnitudo": "5.4",
+    "kedalaman": "16 Km",
+    "wilayah": "149 km Tenggara NIASSELATAN-SUMUT"
   },
   {
-    "waktu": "28-01-22 18:20:36 WIB",
-    "lintang": "-12.14",
-    "bujur": "112.86",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "445 km Tenggara KAB-MALANG-JATIM"
+    "waktu": "14-03-22 04:38:43 WIB",
+    "lintang": "-0.66",
+    "bujur": "98.45",
+    "magnitudo": "6.0",
+    "kedalaman": "26 Km",
+    "wilayah": "154 km Tenggara NIASSELATAN-SUMUT"
   },
   {
-    "waktu": "28-01-22 13:53:56 WIB",
-    "lintang": "-0.22",
-    "bujur": "124.49",
-    "magnitudo": "5.0",
-    "kedalaman": "10 Km",
-    "wilayah": "86 km Tenggara BOLAANGUKI-BOLSEL-SULUT"
+    "waktu": "14-03-22 04:09:21 WIB",
+    "lintang": "-0.71",
+    "bujur": "98.50",
+    "magnitudo": "6.9",
+    "kedalaman": "25 Km",
+    "wilayah": "161 km Tenggara NIASSELATAN-SUMUT"
   },
   {
-    "waktu": "27-01-22 23:03:03 WIB",
-    "lintang": "-8.86",
-    "bujur": "108.16",
+    "waktu": "12-03-22 12:31:07 WIB",
+    "lintang": "-7.19",
+    "bujur": "105.98",
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
-    "wilayah": "133 km BaratDaya KAB-PANGANDARAN-JABAR"
+    "wilayah": "41 km BaratDaya BAYAH-BANTEN"
   },
   {
-    "waktu": "22-01-22 09:26:13 WIB",
-    "lintang": "3.67",
-    "bujur": "126.82",
-    "magnitudo": "6.1",
-    "kedalaman": "12 Km",
-    "wilayah": "39 km Tenggara MELONGUANE-SULUT"
+    "waktu": "10-03-22 11:26:52 WIB",
+    "lintang": "3.86",
+    "bujur": "95.89",
+    "magnitudo": "5.2",
+    "kedalaman": "15 Km",
+    "wilayah": "41 km BaratDaya MEULABOH-ACEHBARAT"
   },
   {
-    "waktu": "20-01-22 17:44:11 WIB",
-    "lintang": "-2.04",
-    "bujur": "140.37",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "69 km BaratLaut JAYAPURA-PAPUA"
-  },
-  {
-    "waktu": "19-01-22 21:29:48 WIB",
-    "lintang": "-3.37",
-    "bujur": "130.98",
-    "magnitudo": "5.7",
-    "kedalaman": "85 Km",
-    "wilayah": "62 km Tenggara SERAMBAGIANTIMUR-MALUKU"
-  },
-  {
-    "waktu": "18-01-22 10:20:40 WIB",
-    "lintang": "5.18",
-    "bujur": "126.33",
-    "magnitudo": "5.0",
-    "kedalaman": "94 Km",
-    "wilayah": "136 km BaratLaut MELONGUANE-SULUT"
-  },
-  {
-    "waktu": "17-01-22 07:25:56 WIB",
-    "lintang": "-7.60",
-    "bujur": "105.90",
-    "magnitudo": "5.4",
-    "kedalaman": "10 Km",
-    "wilayah": "84 km BaratDaya BAYAH-BANTEN"
-  },
-  {
-    "waktu": "14-01-22 23:43:26 WIB",
-    "lintang": "-7.98",
-    "bujur": "118.62",
-    "magnitudo": "5.0",
-    "kedalaman": "33 Km",
-    "wilayah": "53 km BaratLaut BIMA-NTB"
-  },
-  {
-    "waktu": "14-01-22 17:07:35 WIB",
-    "lintang": "-7.61",
-    "bujur": "128.60",
-    "magnitudo": "5.1",
-    "kedalaman": "149 Km",
-    "wilayah": "108 km TimurLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "14-01-22 16:49:21 WIB",
-    "lintang": "-7.03",
-    "bujur": "105.25",
-    "magnitudo": "5.7",
-    "kedalaman": "10 Km",
-    "wilayah": "54 km BaratDaya SUMUR-BANTEN"
-  },
-  {
-    "waktu": "14-01-22 16:05:41 WIB",
-    "lintang": "-7.01",
-    "bujur": "105.26",
-    "magnitudo": "6.7",
-    "kedalaman": "10 Km",
-    "wilayah": "52 km BaratDaya SUMUR-BANTEN"
-  },
-  {
-    "waktu": "11-01-22 07:26:31 WIB",
-    "lintang": "0.28",
-    "bujur": "96.70",
+    "waktu": "09-03-22 08:49:18 WIB",
+    "lintang": "2.57",
+    "bujur": "128.43",
     "magnitudo": "5.2",
     "kedalaman": "14 Km",
-    "wilayah": "113 km BaratDaya NIASBARAT-SUMUT"
+    "wilayah": "60 km TimurLaut DARUBA-MALUT"
   },
   {
-    "waktu": "10-01-22 04:59:07 WIB",
-    "lintang": "1.49",
-    "bujur": "127.85",
-    "magnitudo": "5.5",
-    "kedalaman": "10 Km",
-    "wilayah": "5 km BaratDaya HALMAHERAUTARA-MALUT"
+    "waktu": "08-03-22 01:13:15 WIB",
+    "lintang": "2.57",
+    "bujur": "125.92",
+    "magnitudo": "5.6",
+    "kedalaman": "32 Km",
+    "wilayah": "65 km Tenggara ONDONG-KEP.SITARO-SULUT"
   },
   {
-    "waktu": "10-01-22 04:27:51 WIB",
-    "lintang": "1.52",
-    "bujur": "127.86",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "4 km BaratLaut HALMAHERAUTARA-MALUT"
+    "waktu": "08-03-22 00:23:49 WIB",
+    "lintang": "-6.00",
+    "bujur": "130.65",
+    "magnitudo": "5.0",
+    "kedalaman": "147 Km",
+    "wilayah": "230 km BaratLaut MALUKUTENGGARABRT"
   },
   {
-    "waktu": "08-01-22 16:53:42 WIB",
-    "lintang": "1.54",
-    "bujur": "127.83",
-    "magnitudo": "5.1",
-    "kedalaman": "10 Km",
-    "wilayah": "8 km BaratLaut HALMAHERAUTARA-MALUT"
-  },
-  {
-    "waktu": "05-01-22 03:55:46 WIB",
-    "lintang": "-4.91",
-    "bujur": "125.18",
-    "magnitudo": "5.8",
-    "kedalaman": "569 Km",
-    "wilayah": "182 km TimurLaut WAKATOBI-SULTRA"
-  },
-  {
-    "waktu": "03-01-22 05:44:23 WIB",
-    "lintang": "2.03",
-    "bujur": "127.31",
+    "waktu": "06-03-22 05:40:28 WIB",
+    "lintang": "3.55",
+    "bujur": "126.10",
     "magnitudo": "5.0",
     "kedalaman": "43 Km",
-    "wilayah": "81 km BaratLaut HALMAHERABARAT-MALUT"
+    "wilayah": "67 km Tenggara TAHUNA-KEP.SANGIHE-SULUT"
   },
   {
-    "waktu": "31-12-21 12:53:41 WIB",
-    "lintang": "0.05",
-    "bujur": "120.36",
-    "magnitudo": "5.0",
-    "kedalaman": "87 Km",
-    "wilayah": "76 km BaratDaya PARIGIMOUTONG-SULTENG"
+    "waktu": "05-03-22 19:02:39 WIB",
+    "lintang": "4.56",
+    "bujur": "94.84",
+    "magnitudo": "5.9",
+    "kedalaman": "17 Km",
+    "wilayah": "82 km BaratDaya CALANG-ACEHJAYA"
   },
   {
-    "waktu": "30-12-21 20:13:16 WIB",
-    "lintang": "-0.16",
-    "bujur": "125.31",
-    "magnitudo": "5.6",
-    "kedalaman": "10 Km",
-    "wilayah": "128 km Tenggara TUTUYAN-BOLTIM-SULUT"
-  },
-  {
-    "waktu": "30-12-21 03:32:53 WIB",
-    "lintang": "-7.82",
-    "bujur": "127.78",
+    "waktu": "04-03-22 22:01:41 WIB",
+    "lintang": "-7.53",
+    "bujur": "128.50",
     "magnitudo": "5.1",
-    "kedalaman": "170 Km",
-    "wilayah": "36 km BaratLaut MALUKUBRTDAYA"
+    "kedalaman": "124 Km",
+    "wilayah": "104 km TimurLaut MALUKUBRTDAYA"
   },
   {
-    "waktu": "30-12-21 02:21:13 WIB",
-    "lintang": "-7.81",
-    "bujur": "127.69",
-    "magnitudo": "5.2",
-    "kedalaman": "167 Km",
-    "wilayah": "35 km BaratLaut MALUKUBRTDAYA"
+    "waktu": "04-03-22 14:00:33 WIB",
+    "lintang": "-9.72",
+    "bujur": "120.26",
+    "magnitudo": "5.3",
+    "kedalaman": "10 Km",
+    "wilayah": "6 km BaratDaya WAINGAPU-NTT"
   },
   {
-    "waktu": "30-12-21 01:25:52 WIB",
-    "lintang": "-7.76",
-    "bujur": "127.66",
-    "magnitudo": "7.4",
-    "kedalaman": "210 Km",
-    "wilayah": "45 km BaratLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "28-12-21 17:51:50 WIB",
-    "lintang": "-7.80",
-    "bujur": "127.60",
-    "magnitudo": "5.2",
-    "kedalaman": "174 Km",
-    "wilayah": "44 km BaratLaut MALUKUBRTDAYA"
-  },
-  {
-    "waktu": "27-12-21 15:32:19 WIB",
-    "lintang": "-6.72",
-    "bujur": "104.24",
+    "waktu": "02-03-22 13:40:38 WIB",
+    "lintang": "-3.10",
+    "bujur": "139.10",
     "magnitudo": "5.0",
     "kedalaman": "10 Km",
-    "wilayah": "146 km BaratDaya TANGGAMUS-LAMPUNG"
+    "wilayah": "71 km BaratDaya SARMI-PAPUA"
   },
   {
-    "waktu": "26-12-21 22:01:31 WIB",
-    "lintang": "-0.06",
-    "bujur": "123.49",
-    "magnitudo": "5.5",
-    "kedalaman": "90 Km",
-    "wilayah": "73 km BaratDaya BOLAANGUKI-BOLSEL-SULUT"
-  },
-  {
-    "waktu": "26-12-21 09:22:53 WIB",
-    "lintang": "2.21",
-    "bujur": "126.79",
+    "waktu": "01-03-22 22:12:26 WIB",
+    "lintang": "-8.48",
+    "bujur": "107.57",
     "magnitudo": "5.2",
     "kedalaman": "10 Km",
-    "wilayah": "130 km BaratLaut HALMAHERABARAT-MALUT"
+    "wilayah": "134 km BaratDaya KAB-PANGANDARAN-JABAR"
+  },
+  {
+    "waktu": "01-03-22 18:04:11 WIB",
+    "lintang": "3.97",
+    "bujur": "95.96",
+    "magnitudo": "5.3",
+    "kedalaman": "28 Km",
+    "wilayah": "26 km BaratDaya MEULABOH-ACEHBARAT"
+  },
+  {
+    "waktu": "26-02-22 13:15:53 WIB",
+    "lintang": "5.73",
+    "bujur": "126.37",
+    "magnitudo": "5.8",
+    "kedalaman": "122 Km",
+    "wilayah": "195 km BaratLaut MELONGUANE-SULUT"
+  },
+  {
+    "waktu": "26-02-22 06:58:07 WIB",
+    "lintang": "-4.92",
+    "bujur": "101.72",
+    "magnitudo": "5.1",
+    "kedalaman": "18 Km",
+    "wilayah": "77 km BaratLaut ENGGANO-BENGKULU"
+  },
+  {
+    "waktu": "25-02-22 16:22:50 WIB",
+    "lintang": "-8.24",
+    "bujur": "118.65",
+    "magnitudo": "5.2",
+    "kedalaman": "172 Km",
+    "wilayah": "24 km BaratLaut BIMA-NTB"
+  },
+  {
+    "waktu": "25-02-22 11:06:38 WIB",
+    "lintang": "0.12",
+    "bujur": "99.98",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "16 km TimurLaut PASAMANBARAT-SUMBAR"
+  },
+  {
+    "waktu": "25-02-22 11:02:20 WIB",
+    "lintang": "0.15",
+    "bujur": "99.97",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "16 km TimurLaut PASAMANBARAT-SUMBAR"
+  },
+  {
+    "waktu": "25-02-22 08:39:29 WIB",
+    "lintang": "0.15",
+    "bujur": "99.98",
+    "magnitudo": "6.2",
+    "kedalaman": "10 Km",
+    "wilayah": "17 km TimurLaut PASAMANBARAT-SUMBAR"
+  },
+  {
+    "waktu": "25-02-22 08:35:51 WIB",
+    "lintang": "0.14",
+    "bujur": "99.99",
+    "magnitudo": "5.2",
+    "kedalaman": "10 Km",
+    "wilayah": "18 km TimurLaut PASAMANBARAT-SUMBAR"
+  },
+  {
+    "waktu": "22-02-22 05:15:19 WIB",
+    "lintang": "-8.08",
+    "bujur": "120.79",
+    "magnitudo": "5.0",
+    "kedalaman": "10 Km",
+    "wilayah": "69 km TimurLaut RUTENG-MANGGARAI-NTT"
+  },
+  {
+    "waktu": "22-02-22 01:16:56 WIB",
+    "lintang": "-8.05",
+    "bujur": "120.66",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "66 km TimurLaut RUTENG-MANGGARAI-NTT"
+  },
+  {
+    "waktu": "21-02-22 23:22:35 WIB",
+    "lintang": "-8.03",
+    "bujur": "120.73",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "71 km TimurLaut RUTENG-MANGGARAI-NTT"
+  },
+  {
+    "waktu": "21-02-22 20:06:57 WIB",
+    "lintang": "-8.02",
+    "bujur": "120.90",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "81 km TimurLaut RUTENG-MANGGARAI-NTT"
   }
 ]
